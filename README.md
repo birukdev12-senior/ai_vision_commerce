@@ -25,9 +25,10 @@
 **DevOps**: Docker, GitHub Actions (CI/CD), AWS (ECR, EKS/ECS)
 **AI Services**: Google Vision API, Gemini, HeyGen/D-ID API
 
+
 ## 📸 Screenshots
 
-*(/imagine modern e‑commerce website UI design, minimalist layout with clean product cards, AI‑generated tags visible on hover, responsive grid, soft neutral background, high‑end fashion aesthetic, flat vector style, bright natural lighting, 8k --ar 16:9)
+![AI Vision Search Demo](ai-demo.png)
 
 ## 🚀 Live Demo
 
