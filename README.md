@@ -27,7 +27,7 @@
 
 ## 📸 Screenshots
 
-*(Add 2-3 high-quality screenshots here: main product page, camera search in action, AR try-on view)*
+*(/imagine modern e‑commerce website UI design, minimalist layout with clean product cards, AI‑generated tags visible on hover, responsive grid, soft neutral background, high‑end fashion aesthetic, flat vector style, bright natural lighting, 8k --ar 16:9)
 
 ## 🚀 Live Demo
 
